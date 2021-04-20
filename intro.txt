@@ -1,0 +1,15 @@
+#comados dos sass
+sass --version
+
+
+
+#criar o arquivo 
+#1º argumento comando, 2º argumento arquivo de origem, 3º argumento destino 
+sass _cdn\scss\style.scss _cdn\css\style.css
+#ou posso passar as pastar somente
+sass sass _cdn\scss:_cdn\css
+# Execultar sass em esculta
+sass sass _cdn\scss:_cdn\css --watch
+
+# para comprimir 
+sass sass _cdn\scss:_cdn\css --watch --style=compressed
