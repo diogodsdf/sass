@@ -1,0 +1,12 @@
+{
+    "name": "diogo/sass",
+    "description": "initial sass css",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Diogo Soares",
+            "email": "diogo@foze.com.br"
+        }
+    ],
+    "require": {}
+}
