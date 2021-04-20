@@ -1,2 +1,2 @@
 # sass
-project sass initial
+project sass initial.
